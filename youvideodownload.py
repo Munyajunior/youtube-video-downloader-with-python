@@ -16,4 +16,4 @@ resolutions = 720
 
 yd = yt.streams.get_by_resolution(resolutions)
 
-yd.download("/Users/ASUS-PC/Downloads/Video")
+yd.download("C:/Users/ASUS-PC/Downloads/Video")
